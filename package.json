@@ -1,0 +1,16 @@
+{
+  "name": "tfl_travel_pal",
+  "version": "1.0.0",
+  "description": "Alexa skill to get quick info on TFL lines when rushing out the door!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael James",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
