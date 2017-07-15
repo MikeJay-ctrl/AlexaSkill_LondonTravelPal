@@ -1,2 +1,2 @@
 # Alexa London Travel Pal 
-Alexa Skill for givin gthe status of London (Underground and Overground) Lines 
+Alexa Skill for giving the status of London (Underground and Overground) Lines 
